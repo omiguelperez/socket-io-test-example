@@ -1,0 +1,4 @@
+--require test/support/env
+--reporter spec
+--bail
+--check-leaks
